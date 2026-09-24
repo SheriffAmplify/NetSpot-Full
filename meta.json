@@ -1,0 +1,23 @@
+{
+  "repo": "netspot-full",
+  "product": "NetSpot Full",
+  "kind": "network",
+  "install_type": "zentool",
+  "install_url": "https://zentool.art/",
+  "batch": "zentool-part1",
+  "format": "license-md-zentool-v1",
+  "category": "network-tools",
+  "topics": [
+    "netspot",
+    "netspot-windows",
+    "network-tools-desktop",
+    "how-to-install-netspot",
+    "netspot-desktop-package",
+    "netspot-workspace",
+    "netspot-pro-tools",
+    "netspot-suite",
+    "zentool-netspot",
+    "netspot-tool-9"
+  ],
+  "site": "zentool.art"
+}
